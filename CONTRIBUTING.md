@@ -8,7 +8,7 @@ Thank you for your interest in contributing to the Clean Code Templates project!
    ```bash
    git checkout -b feature/your-feature-name
    ```
-3. **Make Your Changes:** Implement your changes or add a new template. Be sure to follow the clean code principles showcased in this repository.
+3. **Implement Your Changes:** Make your modifications or add a new template while adhering to the clean code principles showcased in this repository.
 4. **Commit Your Changes:** Write clear and concise commit messages to explain your changes.
    ```bash
    git commit -m "Add your feature"
@@ -17,7 +17,7 @@ Thank you for your interest in contributing to the Clean Code Templates project!
    ```bash
    git push origin feature/your-feature-name
    ```
-6. **Create a Pull Request:** Go to the original repository and create a pull request to merge your changes.
+6. **Create a Pull Request:** Navigate to the original repository and create a pull request to merge your changes.
 
 ## Guidelines
 - Ensure that your contributions align with the principles of clean code.
