@@ -9,7 +9,7 @@ Thank you for your interest in contributing to the Clean Code Templates project!
    git checkout -b feature/your-feature-name
    ```
 3. **Implement Your Changes:** Make your modifications or add a new template while adhering to the clean code principles showcased in this repository.
-4. **Commit Your Changes:** Write clear and concise commit messages to explain the purpose of your changes, including any relevant details or context.
+4. **Commit Your Changes:** Write clear and concise commit messages to explain the purpose of your changes, including any relevant details or context. Follow the format: `Subject: A brief summary of changes`
    ```bash
    git commit -m "Add your feature"
    ```
