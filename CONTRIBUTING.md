@@ -5,15 +5,18 @@ Thank you for your interest in contributing to the Clean Code Templates project!
 ## How to Contribute
 1. **Fork the Repository:** Click on the fork button to create a copy of this repository in your GitHub account.
 2. **Create a Branch:** Make a new branch for your feature or fix. It’s best practice to keep your changes isolated and name your branch following the format `feature/your-feature-name` or `fix/your-fix-name`.
+   
    ```bash
    git checkout -b feature/your-feature-name
    ```
 3. **Implement Your Changes:** Make your modifications or add a new template while adhering to the clean code principles showcased in this repository.
 4. **Commit Your Changes:** Write clear and concise commit messages to explain the purpose of your changes, including any relevant details or context. Follow the format: `Subject: A brief summary of changes`
+   
    ```bash
    git commit -m "Add your feature"
    ```
 5. **Push Your Changes:** Push your branch to your forked repository.
+   
    ```bash
    git push origin feature/your-feature-name
    ```
